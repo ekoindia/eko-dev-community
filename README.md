@@ -32,7 +32,7 @@ When: Tue 5PM, Nov 22, 2022 (IST)
 
 Where: https://discord.gg/93rYABNPqX
 
-### Resources
+## Resources
 
 - [A quick overview of Eko Platform Services](https://developers.eko.in/eps)
 - [Eko API documentation](https://developers.eko.in/docs)
