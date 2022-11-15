@@ -26,7 +26,7 @@ Join the [**community on Discord**](https://discord.gg/93rYABNPqX) and introduce
 ## Attend Eko Developer Community Meetup
 Eko Developer Community Meetups are the best way to connect personally with the Eko engineering team and other developers building with Eko. We will host online meetups addressing different challenges you face building with Eko. Your suggestions are welcome to make them useful to you.
 
-### Upcoming Eko Developer Community Meetup
+### :fire: Upcoming Eko Developer Community Meetup
 
 When: Tue 5PM, Nov 22, 2022 (IST)
 
