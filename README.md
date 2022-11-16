@@ -1,3 +1,7 @@
+<a href="https://eko.in/developers/eps">
+<img src="logo_square.png" alt="logo" width="120"/>
+</a>
+
 # Eko Developer Community 
 
 <a href="https://discord.gg/93rYABNPqX">
