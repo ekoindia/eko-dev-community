@@ -40,4 +40,4 @@ Where: [Eko Developer Community on Discord](https://dsc.gg/ekodevs)
 
 - [A quick overview of Eko Platform Services](https://developers.eko.in/eps)
 - [Eko API documentation](https://developers.eko.in/docs)
-- [Eko on YouTube]((https://www.youtube.com/@ekodevelopers)
+- [Eko on YouTube](https://www.youtube.com/@ekodevelopers)
