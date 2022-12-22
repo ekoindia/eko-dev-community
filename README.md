@@ -32,7 +32,7 @@ Eko Developer Community Meetups are the best way to connect personally with the 
 
 ### :fire: Upcoming Eko Developer Community Meetup
 
-When: Tue 5PM, Dec 19, 2022 (IST)
+When: Tue 5PM, Jan 17, 2023 (IST)
 
 Where: [Eko Developer Community on Discord](https://dsc.gg/ekodevs)
 
