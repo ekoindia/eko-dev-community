@@ -30,15 +30,20 @@ Join the [**community on Discord**](https://discord.gg/93rYABNPqX) and introduce
 ## Attend Eko Developer Community Meetup
 Eko Developer Community Meetups are the best way to connect personally with the Eko engineering team and other developers building with Eko. We will host online meetups addressing different challenges you face building with Eko. Your suggestions are welcome to make them useful to you.
 
+### :fire: Upcoming meetup
+
+> 📆 When: Tue 5PM, Jan 17, 2023 (IST)
+> 
+> 📌 Where: [Eko Developer Community on Discord](https://dsc.gg/ekodevs)
+
+Never miss the upcoming meetups
 * [Subscribe to events calendar](https://calendar.google.com/calendar/?cid=Y19hYWQ5ZWEzMzUxZTc5ZjNhODc3OTM2OWI2MmE5Y2MyZTUxMzJjZTQyMmRmYmQ0NDI0MWRhNDFjMzU4ZDNlNTQ2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 * [Check out the events calendar](https://calendar.google.com/calendar/embed?src=c_aad9ea3351e79f3a8779369b62a9cc2e5132ce422dfbd44241da41c358d3e546%40group.calendar.google.com)
 
+### 📂 Past meetups
 
-### :fire: Upcoming Eko Developer Community Meetup
-
-When: Tue 5PM, Jan 17, 2023 (IST)
-
-Where: [Eko Developer Community on Discord](https://dsc.gg/ekodevs)
+* ChatGPT and the start of Eko Node.js SDK | 📆 Tue, Nov 22, 2022 | [Recordings available now](https://youtu.be/YD6-lsHnaeg)
+* AMA with Eko Engineering team | 📆 Tue, Dec 20, 2022 | [Recordings available now](https://youtu.be/m2ZLyJD9SCg)
 
 ## Resources
 
