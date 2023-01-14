@@ -21,7 +21,7 @@ Eko Developer Community is a group of passionate developers building Fintech pro
 
 4️⃣ Share your feedback and contribute to improving Eko
 
-Of course, it does not end here. Tell us, how can Eko Developers Community can help you
+Of course, it does not end here. Tell us, how Eko Developers Community can help you
 
 
 ## Chat with the community
@@ -29,6 +29,10 @@ Join the [**community on Discord**](https://discord.gg/93rYABNPqX) and introduce
 
 ## Attend Eko Developer Community Meetup
 Eko Developer Community Meetups are the best way to connect personally with the Eko engineering team and other developers building with Eko. We will host online meetups addressing different challenges you face building with Eko. Your suggestions are welcome to make them useful to you.
+
+* [Subscribe to events calendar](https://calendar.google.com/calendar/?cid=Y19hYWQ5ZWEzMzUxZTc5ZjNhODc3OTM2OWI2MmE5Y2MyZTUxMzJjZTQyMmRmYmQ0NDI0MWRhNDFjMzU4ZDNlNTQ2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+* [Check out the events calendar](https://calendar.google.com/calendar/embed?src=c_aad9ea3351e79f3a8779369b62a9cc2e5132ce422dfbd44241da41c358d3e546%40group.calendar.google.com)
+
 
 ### :fire: Upcoming Eko Developer Community Meetup
 
