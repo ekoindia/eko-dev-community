@@ -32,7 +32,7 @@ Eko Developer Community Meetups are the best way to connect personally with the 
 
 ### :fire: Upcoming meetup
 
-> 📆 When: Tue 5PM, Jan 17, 2023 (IST)
+> 📆 When: Tue 5PM, Feb 21, 2023 (IST)
 > 
 > 📌 Where: [Eko Developer Community on Discord](https://dsc.gg/ekodevs)
 
@@ -42,6 +42,7 @@ Never miss the upcoming meetups
 
 ### 📂 Past meetups
 
+* 5 new updates to Eko APIs | 📆 Tue, Feb 21, 2023 | [Recordings available now](https://youtu.be/FSy67PFnkNI)
 * ChatGPT and the start of Eko Node.js SDK | 📆 Tue, Nov 22, 2022 | [Recordings available now](https://youtu.be/YD6-lsHnaeg)
 * AMA with Eko Engineering team | 📆 Tue, Dec 20, 2022 | [Recordings available now](https://youtu.be/m2ZLyJD9SCg)
 
