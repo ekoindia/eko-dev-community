@@ -32,18 +32,19 @@ Eko Developer Community Meetups are the best way to connect personally with the 
 
 ### :fire: Upcoming meetup
 
-**Building bill payments system for Bharat using Eko APIs**
+**Topic to be decided soon...**
 
-> 📆 When: Tue 5PM, Feb 21, 2023 (IST)
+> 📆 When: Tue 5PM, Mar 21, 2023 (IST)
 > 
 > 📌 Where: [Eko Developer Community on Discord](https://dsc.gg/ekodevs)
 
 Never miss the upcoming meetups
-* [Subscribe to events calendar](https://calendar.google.com/calendar/?cid=Y19hYWQ5ZWEzMzUxZTc5ZjNhODc3OTM2OWI2MmE5Y2MyZTUxMzJjZTQyMmRmYmQ0NDI0MWRhNDFjMzU4ZDNlNTQ2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-* [Check out the events calendar](https://calendar.google.com/calendar/embed?src=c_aad9ea3351e79f3a8779369b62a9cc2e5132ce422dfbd44241da41c358d3e546%40group.calendar.google.com)
+* [Subscribe to events calendar](https://bit.ly/meet-ekodevs)
+* [Check out the events calendar](https://bit.ly/eko-meetup-calendar)
 
 ### 📂 Past meetups
 
+* Building bill payments for Bharat using Eko APIs | 📆 Tue, Feb 21, 2023 | [Recordings available now](https://youtu.be/sZWBKZfFiDM)
 * 5 new updates to Eko APIs | 📆 Tue, Jan 17, 2023 | [Recordings available now](https://youtu.be/FSy67PFnkNI)
 * ChatGPT and the start of Eko Node.js SDK | 📆 Tue, Dec 20, 2022 | [Recordings available now](https://youtu.be/YD6-lsHnaeg)
 * AMA with Eko Engineering team | 📆 Tue, Nov 22, 2022 | [Recordings available now](https://youtu.be/m2ZLyJD9SCg)
