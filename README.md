@@ -32,7 +32,7 @@ Eko Developer Community Meetups are the best way to connect personally with the 
 
 ### :fire: Upcoming meetup
 
-**Topic to be decided soon...**
+**Building your own ATM using Aadhaar & Eko APIs**
 
 > 📆 When: Tue 5PM, Mar 21, 2023 (IST)
 > 
