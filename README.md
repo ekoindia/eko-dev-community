@@ -32,9 +32,9 @@ Eko Developer Community Meetups are the best way to connect personally with the 
 
 ### :fire: Upcoming meetup
 
-**Building your own ATM using Aadhaar & Eko APIs**
+**Building your own Aadhaar Pay system**
 
-> 📆 When: Tue 5PM, Mar 21, 2023 (IST)
+> 📆 When: Fri 5PM, Apr 28, 2023 (IST)
 > 
 > 📌 Where: [Eko Developer Community on Discord](https://dsc.gg/ekodevs)
 
@@ -44,6 +44,7 @@ Never miss the upcoming meetups
 
 ### 📂 Past meetups
 
+* Building your own ATM using Aadhaar & Eko APIs | 📆 Tue, Mar 21, 2023 | [Recordings available now](https://youtu.be/lLryYhilH_k)
 * Building bill payments for Bharat using Eko APIs | 📆 Tue, Feb 21, 2023 | [Recordings available now](https://youtu.be/sZWBKZfFiDM)
 * 5 new updates to Eko APIs | 📆 Tue, Jan 17, 2023 | [Recordings available now](https://youtu.be/FSy67PFnkNI)
 * ChatGPT and the start of Eko Node.js SDK | 📆 Tue, Dec 20, 2022 | [Recordings available now](https://youtu.be/YD6-lsHnaeg)
